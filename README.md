@@ -1,5 +1,1 @@
-READ THE INSTRUCTIONS CAREFULLY
-1. Download the dataset and import it in google drive so that you don't need to upload it everytime.
-2. Make sure to handle missing values correctly
-3. Scale the Dataset for desired accuracy
-4. Make sure to restart and run the whole notebook from start if you commit any changes in middle of the notebook.
+This repository contains a machine learning project focused on predicting customer churn for a bank. The project utilizes a dataset consisting of customer information such as credit scores, geographic locations, ages, tenures, account balances, product holdings, and estimated salaries. The goal is to develop a predictive model that can accurately identify customers at risk of leaving the bank, enabling the implementation of targeted retention strategies. The project showcases various data preprocessing techniques, exploratory data analysis, feature engineering, and model evaluation methods to tackle the customer churn prediction problem effectively.
